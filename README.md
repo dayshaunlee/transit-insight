@@ -18,6 +18,6 @@ Enter the port number from above, log into the server to tunnel.
 
 
 
-*\*Note: this repository was cloned as part of a course project for a relational databases course. Please do not share or copy this project.*
+*\*Note: this repository was cloned as part of a course project for a relational databases course. Hence, access to the database is restricted and this repository is for preservation purposes. Please do not share or copy this project.*
 
 
